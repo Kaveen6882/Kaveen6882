@@ -35,18 +35,14 @@
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/Kaveen6882">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaveen6882&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Kaveen6882">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaveen6882&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaveen6882&show_icons=true&theme=tokyonight" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveen6882&theme=tokyonight" />
+
+</div>
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/kaveen madushankamadushanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaveen madushankamadushanka" height="30" width="40" /></a>
