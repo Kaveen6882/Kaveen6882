@@ -11,7 +11,6 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on [DriveXpress](https://github.com/NiludaDisanayaka/DriveXpress)
 
 - 🌱 I’m currently learning **Advanced Java Programming,Web Application Development & Data Structures & Algorithms.**
 
